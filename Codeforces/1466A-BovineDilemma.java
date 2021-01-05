@@ -7,7 +7,7 @@ public class BovineDilemma {
 		// TODO Auto-generated method stub
 		Scanner sc = new Scanner(System.in);
 		int tests = sc.nextInt();
-		while(tests>1) {
+		while(tests>0) {
 			tests--;
 			int size = sc.nextInt();
 			int arr[] = new int[size];
